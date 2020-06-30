@@ -1,6 +1,6 @@
 <div class="card mb-3">
     <img src="https://www.arcgis.com/sharing/rest/content/items/6c036c09c490450db100cbf867c7688a/resources/1571940616424.png?w=3340" class="card-img-top" alt="...">
-    <div class="card-body">
+    <div class="card-body card align-items-center">
       <h5 class="card-title">List of Students</h5>
  
       <table class="table">
